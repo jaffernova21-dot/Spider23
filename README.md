@@ -1,4 +1,5 @@
-Modern Portfolio | Frontend Developer
+**Modern Portfolio | Frontend Developer**
+
 A high-performance, visually stunning personal portfolio built with React.js, Vite, and GSAP. This portfolio isn't just a showcase of projects; it's a demonstration of technical optimization, smooth user experience, and clean code architecture.
 
 <img width="1891" height="914" alt="image" src="https://github.com/user-attachments/assets/3dbbeb50-66b2-4154-9581-f1844e403363" />
