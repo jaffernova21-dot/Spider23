@@ -1,96 +1,71 @@
-# 🌐 3D Awwwards-Level Developer Portfolio
+**Modern Portfolio | Frontend Developer**
 
-### Built with React, GSAP, Three.js, TailwindCSS
+A high-performance, visually stunning personal portfolio built with React.js, Vite, and GSAP. This portfolio isn't just a showcase of projects; it's a demonstration of technical optimization, smooth user experience, and clean code architecture.
 
-This is a fully animated, interactive, 3D developer portfolio designed to **impress clients, recruiters, and hiring managers**. It's more than a portfolio—it's a web experience built with production-level code, scroll-based animations, and real-world best practices.
+<img width="1891" height="914" alt="image" src="https://github.com/user-attachments/assets/3dbbeb50-66b2-4154-9581-f1844e403363" />
+<img width="1899" height="912" alt="image" src="https://github.com/user-attachments/assets/ffbf4eda-5d7b-443f-83a0-b9d7865cd5da" />
+<img width="1905" height="915" alt="image" src="https://github.com/user-attachments/assets/6825e4e6-36aa-4ef1-a853-b82b893fe6dc" />
 
-> ⚡ Inspired by Awwwards-level sites — built with React (Vite), TailwindCSS, GSAP, React Three Fiber, and Drei.
 
-<br/>
-<div>
-  <img src="https://github.com/user-attachments/assets/4eaf9399-fd02-4a90-83f7-2b5a361bc032" alt="Hero" style="border-radius: 8px;"/>
-  <div style="display: flex; justify-content: space-between; margin: 20px 0;">
-    <img src="https://github.com/user-attachments/assets/155bf742-b24f-4119-89f4-87e6d88c8f53" alt="Works" style="width: 32%; border-radius: 8px;"/>
-    <img src="https://github.com/user-attachments/assets/f22b9749-85ed-434f-a5f6-df1f8e221103" alt="ContactSummary" style="width: 32%; border-radius: 8px;"/>
-    <img src="https://github.com/user-attachments/assets/3e473322-b96a-433b-aec5-ece9bab25795" alt="Contact" style="width: 32%; border-radius: 8px;"/>
-  </div>
-</div>
-<br/>
+**🛠️ Tech Stack**
 
-> 📺 [Watch Full YouTube Walkthrough](https://youtu.be/i0229UsdBwc)
----
+Framework: React.js (Vite)
 
-## 🚀 Tech Stack
+Animations: GSAP (GreenSock Animation Platform) & ScrollTrigger
 
-| Technology       | Description                             |
-| ---------------- | --------------------------------------- |
-| **React (Vite)** | Fast dev server and production bundling |
-| **Tailwind CSS** | Utility-first styling for components    |
-| **GSAP**         | Scroll-based animation and motion logic |
-| **Three.js**     | 3D scenes powered by React Three Fiber  |
-| **Drei**         | Useful helpers for 3D rendering         |
+Styling: Tailwind CSS
 
----
+Routing & Scroll: React Scroll
 
-## 📁 Features
+Icons: Iconify
 
-- 🔥 3D Hero Section with animated planet and golden ring
-- 🧩 Smooth slide-in Navbar with staggered link animations
-- 🎯 Scroll-triggered Service Summary with horizontal word motion
-- 🖼️ Works section with hover overlays and interactive previews
-- ✍️ About section with clip-path image reveal + typewriter text
-- 🏁 Marquee-based Contact Summary and CTA
-- 💼 Fully responsive and accessible on all screen sizes
+**🌟 Key Features**
 
----
+Extreme Performance: Optimized for speed, achieving near-perfect Lighthouse scores.
 
-## 📦 Setup & Installation
+Advanced Animations: Smooth, buttery transitions and interactive hover effects using GSAP.
 
-```bash
-git clone https://github.com/Ali-Sanati/awwwards-portfolio.git
-cd awwwards-portfolio
-npm install
-npm run dev
-```
+Responsive Design: Fully fluid layout that works flawlessly from 4K monitors to mobile screens.
 
-> Open http://localhost:5173 in your browser.
+Project Showcase: A dynamic "Works" section featuring 6 diverse projects, from Shopify stores to complex CRUD systems.
 
----
+Modern Navigation: Custom-built overlay Navbar with scroll-triggered visibility.
 
-## 🛠️ Customization Tips
+**⚡Performance Optimization**
 
-- Change text, images, and links in /constants/index.js
+ I focused heavily on the "Critical Rendering Path" to ensure the best user experience:
 
-- Update 3D models and scene in Hero.jsx
+ Asset Optimization: Compressed images and used modern formats.
 
-- Add your own contact info in Contact.jsx
+ Code Splitting: Efficient loading of components.
 
-- Adjust colors, fonts, and layout via tailwind.config.js
+ Zero Layout Shift: Carefully managed GSAP animations to prevent CLS.
 
----
+**🚀 Getting Started**
 
-## 🔗 Assets
+    Clone the repository:
 
-Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
+    Bash
+    git clone https://github.com/MohamedxFawzi/Portfolio.git
+    Install dependencies:
 
----
+    Bash
+    npm install
+    Run the development server:
 
-## 📣 Like the project?
+    Bash
+    npm run dev
+    Build for production:
 
-If this helped you build or inspire your own site:
+    Bash
+    npm run build
+    
+📨 Contact Me
 
-- ⭐ Star this repo
+Email: mohamedfawzeix@gmail.com
 
-- 📺 [Watch the full walkthrough on YouTube](https://youtu.be/i0229UsdBwc)
+LinkedIn: Mohamed Fawzi
 
-- 📬 [Connect on LinkedIn](https://www.linkedin.com/in/ali-sanati)
+GitHub: @MohamedxFawzi
 
-- 📷 [Follow me on Instagram](https://www.instagram.com/ali.sanatidev/reels/)
-
----
-
-## 🤝 Let’s Build Together
-
-Drop a comment on the video or open an issue with your idea!
-
-> 📩 Like, subscribe, and let me know what kind of project you want to build together!
+⭐️ If you find this project helpful, don't forget to give it a star!
