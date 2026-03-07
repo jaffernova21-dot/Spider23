@@ -8,6 +8,7 @@ A high-performance, visually stunning personal portfolio built with React.js, Vi
 
 
 **🛠️ Tech Stack**
+
 Framework: React.js (Vite)
 
 Animations: GSAP (GreenSock Animation Platform) & ScrollTrigger
@@ -19,6 +20,7 @@ Routing & Scroll: React Scroll
 Icons: Iconify
 
 **🌟 Key Features**
+
 Extreme Performance: Optimized for speed, achieving near-perfect Lighthouse scores.
 
 Advanced Animations: Smooth, buttery transitions and interactive hover effects using GSAP.
@@ -30,6 +32,7 @@ Project Showcase: A dynamic "Works" section featuring 6 diverse projects, from S
 Modern Navigation: Custom-built overlay Navbar with scroll-triggered visibility.
 
 **⚡Performance Optimization**
+
  I focused heavily on the "Critical Rendering Path" to ensure the best user experience:
 
  Asset Optimization: Compressed images and used modern formats.
@@ -39,6 +42,7 @@ Modern Navigation: Custom-built overlay Navbar with scroll-triggered visibility.
  Zero Layout Shift: Carefully managed GSAP animations to prevent CLS.
 
 ** 🚀 Getting Started**
+
     Clone the repository:
 
     Bash
